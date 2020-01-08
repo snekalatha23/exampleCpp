@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(boolCpp boolCpp.cpp)
+	add_executable(publicSampleCpp publicsampleCpp.cpp)
